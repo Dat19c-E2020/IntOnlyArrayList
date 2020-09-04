@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class IntOnlyArrayList {
     //ArrayList erstattes med et int-array
     private ArrayList<Integer> ia;
-    //tilføje field til at holde styr på størrelsen, eg. int str;
+    //tilføje field til at holde styr på størrelsen, eg. private int str;
 
     public IntOnlyArrayList() {
         //int[] ia = new int[20];
